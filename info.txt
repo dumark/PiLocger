@@ -1,6 +1,8 @@
 Pi Locger - Raspberry Pi location data logger
 
 Notes:
-Useful links:
-https://gpsd.gitlab.io/gpsd/client-howto.html
-http://www.danmandle.com/blog/getting-gpsd-to-work-with-python/
+	Useful links:
+	- https://gpsd.gitlab.io/gpsd/client-howto.html
+	- http://www.danmandle.com/blog/getting-gpsd-to-work-with-python/
+Ideas:
+	Add pushbutton to start/stop logging (debounce?)
